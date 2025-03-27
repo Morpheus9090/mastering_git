@@ -1,3 +1,4 @@
-# yo what is up? It's your man hellazlander!
+# welcome to boribo git!
+-Iam adding this from 'dev-boribo'
 
 -I am adding these from 'dev-setec'
